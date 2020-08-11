@@ -10,5 +10,5 @@ windowingFunction mean
 smoothingWindow 10
 maxHeightPixels 40:32:11
 autoscale off     
-html https://raw.githubusercontent.com/Swanthana-bioinfo/UCSC-Mappability/master/hub.txt?token=AP4X3JCUH2L3UA3NVYRYKH27GL3WM
+html https://raw.githubusercontent.com/Swanthana-bioinfo/UCSC-Mappability/master/hub.txt
 priority  1
