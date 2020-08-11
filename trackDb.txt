@@ -1,0 +1,14 @@
+track
+bigDataUrl
+shortLabel
+longLabel
+type bigwig
+visibility  2
+viewLimits  0:5
+color 255,127,0
+windowingFunction mean
+smoothingWindow 10
+maxHeightPixels 40:32:11
+autoscale off     
+html 
+priority  1
