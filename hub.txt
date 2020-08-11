@@ -1,5 +1,5 @@
 hub MappabilityHub
-shortLabel Map Hub
-longLabel Mappability Hub for hg38
+shortLabel Map_Hub
+longLabel Mappability_Hub
 genomesFile genomes.txt
 email swanthana_rekulapally@med.unc.edu
