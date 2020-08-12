@@ -1,5 +1,5 @@
 track Mappability_genmap
-bigDataUrl https://raw.githubusercontent.com/Swanthana-bioinfo/UCSC-Mappability/master/hg38/Mappability_genmap_250_2.bw
+bigDataUrl https://raw.githubusercontent.com/Swanthana-bioinfo/UCSC-Mappability/master/hg38/Mappability_38.bw
 shortLabel  Map_Hub
 longLabel Mappability_Hub
 type bigWig
