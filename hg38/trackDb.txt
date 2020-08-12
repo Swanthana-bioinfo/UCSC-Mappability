@@ -2,13 +2,15 @@ track Mappability_genmap
 bigDataUrl https://raw.githubusercontent.com/Swanthana-bioinfo/UCSC-Mappability/master/hg38/Mappability_38.bw
 shortLabel  Map_Hub
 longLabel Mappability_Hub
-type bigWig
+type bigWig -0.25 37.6
+autoScale off
 visibility  pack
-viewLimits  0:5
-color 255,127,0
-windowingFunction mean
+viewLimits  5:20
+viewLimitsMax 0:37.6
+color 128,0,128
+windowingFunction mean+whiskers
 smoothingWindow 10
-maxHeightPixels 40:32:11
-autoscale off     
-html https://raw.githubusercontent.com/Swanthana-bioinfo/UCSC-Mappability/master/hub.txt
+maxHeightPixels 100:32:8
+gridDefault on  
+html https://raw.githubusercontent.com/Swanthana-bioinfo/UCSC-Mappability/master/hubhtml.html
 priority  1
