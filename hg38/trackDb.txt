@@ -5,7 +5,7 @@ longLabel Mappability_Hub
 type bigWig -0.25 37.6
 autoScale off
 visibility  pack
-viewLimits  5:20
+viewLimits  5:50
 viewLimitsMax 0:37.6
 color 128,0,128
 windowingFunction mean+whiskers
